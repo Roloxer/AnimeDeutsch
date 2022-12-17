@@ -14,7 +14,7 @@
     --body-color: #1e1e2a;
     --container-color: #2d2e37;
     --text-color: #ffffff;
-    --pink-color: deeppink;
+    --pink-color: rgb(20, 220, 255);
 }
 
 html::-webkit-scrollbar{
